@@ -1,6 +1,6 @@
 # Car-Dash
 
-This project is a simple car game developed using HTML only. The game involves controlling a car using arrow keys, avoiding collisions with enemy cars, and aiming to achieve the highest score possible.
+Car Dash is a simple car game developed using HTML only. The game involves controlling a car using arrow keys, avoiding collisions with enemy cars, and aiming to achieve the highest score possible.
 
 ## Preview
 
