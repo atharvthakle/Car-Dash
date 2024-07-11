@@ -4,7 +4,11 @@ Car Dash is a simple car game developed using HTML only. The game involves contr
 
 ## Preview
 
+[![1](https://github.com/atharvthakle/Car-Dash/assets/136578804/2f38a0a3-8633-4d70-8d29-4e7034e4d848)](https://cardash-by-at.netlify.app/)
 
+[![2](https://github.com/atharvthakle/Car-Dash/assets/136578804/af9c4686-a244-464b-af75-b06f25e82218)](https://cardash-by-at.netlify.app/)
+
+[![3](https://github.com/atharvthakle/Car-Dash/assets/136578804/d143f4ff-d122-4a6f-81a1-4722a7b7c4af)](https://cardash-by-at.netlify.app/)
 
 ## Features 
 
