@@ -21,3 +21,7 @@ Car Dash is a simple car game developed using HTML only. The game involves contr
 • Speed Increment : Speed increases by 1 every 5 seconds to enhance gameplay challenge.
 
 • Highscore Tracking : Implemented a highscore system to track and display the highest score achieved.
+
+## License
+
+This repository is licensed under the MIT License.
